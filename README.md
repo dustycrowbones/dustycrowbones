@@ -1,5 +1,14 @@
-## Hi there 👋
+# dustycrowbones (Mikael Varisniemi)
 
+Hi there!
+
+I'm an ICT engineering student & beginner web developer.
+
+This is my project vault. Humble, but growing.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sqlite,wordpress,figma)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dustycrowbones&layout=compact&theme=cobalt)
 <!--
 **dustycrowbones/dustycrowbones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
