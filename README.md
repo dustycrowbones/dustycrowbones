@@ -2,7 +2,7 @@
 
 Hi there!
 
-I'm an ICT engineering student & beginner web developer.
+I'm an ICT engineering student.
 Passionate about web development and UI/UX design, usability and accessibility.
 
 This is my project vault. Humble, but growing.
