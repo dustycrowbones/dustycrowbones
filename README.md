@@ -1,8 +1,9 @@
-# dustycrowbones (Mikael Varisniemi)
+# Mikael Varisniemi (dustycrowbones)
 
 Hi there!
 
 I'm an ICT engineering student & beginner web developer.
+Passionate about web development and UI/UX design, usability and accessibility.
 
 This is my project vault. Humble, but growing.
 
